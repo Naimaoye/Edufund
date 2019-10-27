@@ -1,0 +1,14 @@
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\bin\Release\netcoreapp2.2\TrippleNT.deps.json
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\bin\Release\netcoreapp2.2\TrippleNT.runtimeconfig.json
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\bin\Release\netcoreapp2.2\TrippleNT.runtimeconfig.dev.json
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\bin\Release\netcoreapp2.2\TrippleNT.dll
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\bin\Release\netcoreapp2.2\TrippleNT.pdb
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.csprojAssemblyReference.cache
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.csproj.CoreCompileInputs.cache
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.RazorAssemblyInfo.cache
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.RazorAssemblyInfo.cs
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.AssemblyInfoInputs.cache
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.AssemblyInfo.cs
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.RazorTargetAssemblyInfo.cache
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.dll
+C:\Users\Oniyide Temitope\source\repos\TrippleNT\TrippleNT\obj\Release\netcoreapp2.2\TrippleNT.pdb
